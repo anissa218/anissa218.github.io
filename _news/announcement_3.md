@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Going to Vancouver for NeurIPS to present two posters at the Algorithmic Fairness workshop and the Women in ML workshop.
+Looking forward to going to Vancouver for NeurIPS to present two [posters](https://neurips.cc/virtual/2024/101546) at the [Algorithmic Fairness workshop](https://www.afciworkshop.org/) and the [Women in ML workshop](https://sites.google.com/wimlworkshop.org/wiml-2024/home?authuser=0).
