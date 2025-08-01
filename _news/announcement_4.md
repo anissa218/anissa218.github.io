@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Returning to Vancouver for ICML to present my [paper](https://arxiv.org/pdf/2505.21363?) on subgroup definition in bias mitigation!
+Returning to Vancouver for [ICML](https://icml.cc/) to present my [paper](https://arxiv.org/pdf/2505.21363?) on subgroup definition in bias mitigation!
