@@ -7,5 +7,3 @@ related_posts: false
 ---
 
 Excited to attend [MICCAI](https://conferences.miccai.org/2024/en/) in Morocco to present my [paper](https://arxiv.org/abs/2408.02676) on biases and their mitigation in retinal image classification.
-
-
